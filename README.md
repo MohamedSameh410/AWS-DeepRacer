@@ -3,4 +3,8 @@ Welcome to my AWS DeepRacer repository. This repo showcases my solution that ran
 
 This repository includes my approach, training strategy, and key optimizations that contributed to this result.
 ## About AWS DeepRacer
-[AWS DeepRacer](https://aws.amazon.com/deepracer/) is an autonomous racing platform that enables developers to learn reinforcement learning by training models in a simulated racing environment. Participants can train, optimize, and deploy models to compete in global and regional AWS DeepRacer events.
+[AWS DeepRacer](https://aws.amazon.com/deepracer/) is a cloud-based autonomous racing platform that helps developers learn reinforcement learning (RL) through hands-on experience. It provides a **1/18th scale autonomous car**, a **3D racing simulator**, and a **global competition** where participants train RL models to navigate virtual tracks efficiently.
+
+DeepRacer allows users to experiment with different reward functions, hyperparameters, and training strategies to improve their model’s performance. The platform supports **sim-to-real transfer**, enabling trained models to run on physical DeepRacer cars.
+
+Competitions are held at **AWS DeepRacer League** events, where participants compete for the fastest lap times while minimizing penalties like off-tracks and collisions.
