@@ -8,7 +8,7 @@ This repository includes my approach, training strategy, and key optimizations t
 DeepRacer allows users to experiment with different reward functions, hyperparameters, and training strategies to improve their model’s performance. The platform supports **sim-to-real transfer**, enabling trained models to run on physical DeepRacer cars.
 
 Competitions are held at **AWS DeepRacer League** events, where participants compete for the fastest lap times while minimizing penalties like off-tracks and collisions.
-## About the race
+## Race details
 | Category | Details |
 |-|-|
 |Race type | Time trial |
