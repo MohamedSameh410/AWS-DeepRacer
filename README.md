@@ -24,5 +24,5 @@ The experiment involved training an AWS DeepRacer agent over **10 iterations**, 
 | Iteration | Model name | Idea |
 |-|-|-|
 | 1 | [CenterTrack-Stable](https://github.com/MohamedSameh410/AWS-DeepRacer/blob/main/Iterations/CenterTrack-Stable/CenterTrack-Stable.md) | **CenterTrack-Stable** optimizes center alignment while minimizing sharp steering. |
-| 2 | EdgeAware-SpeedOptimized | **EdgeAware-SpeedOptimized** rewards left-edge alignment, smooth steering, high speed, and consistent progress while allowing slight off-track flexibility. |
+| 2 | [EdgeAware-SpeedOptimized](https://github.com/MohamedSameh410/AWS-DeepRacer/blob/main/Iterations/EdgeAware-SpeedOptimized/EdgeAware-SpeedOptimized.md) | **EdgeAware-SpeedOptimized** rewards left-edge alignment, smooth steering, high speed, and consistent progress while allowing slight off-track flexibility. |
 
