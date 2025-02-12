@@ -8,7 +8,7 @@ This repository includes my approach, training strategy, and key optimizations t
 DeepRacer allows users to experiment with different reward functions, hyperparameters, and training strategies to improve their model’s performance. The platform supports **sim-to-real transfer**, enabling trained models to run on physical DeepRacer cars.
 
 Competitions are held at **AWS DeepRacer League** events, where participants compete for the fastest lap times while minimizing penalties like off-tracks and collisions.
-## Race details
+## Experiment details
 | Category | Details |
 |-|-|
 |Race type | Time trial |
@@ -16,3 +16,11 @@ Competitions are held at **AWS DeepRacer League** events, where participants com
 | Style | Individual lap |
 | Entry criteria | 3 consecutive laps |
 | Off-track penalty | 3 seconds |
+
+### Overview of the Experiment:
+The experiment involved training an AWS DeepRacer agent over **10 iterations**, taking **7 hours and 45 minutes**. Different reward functions and hyperparameters were tested throughout the training process to optimize performance. The model achieved a **best lap time of 8.4 seconds** while maintaining **0 off-tracks**.
+
+### Iterations:
+| Iteration | Model name | Idea |
+|-|-|-|
+
