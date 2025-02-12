@@ -23,4 +23,5 @@ The experiment involved training an AWS DeepRacer agent over **10 iterations**, 
 ### Iterations:
 | Iteration | Model name | Idea |
 |-|-|-|
+| 1 | CenterTrack-Stable | **CenterTrack-Stable** optimizes center alignment while minimizing sharp steering. |
 
