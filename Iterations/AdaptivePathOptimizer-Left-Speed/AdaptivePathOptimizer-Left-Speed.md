@@ -102,7 +102,7 @@ def reward_function(params):
 ## Model Performance
 
 ### Training:
-I trained the model with a maximum time of 45 minutes.
+I trained the model with a maximum time of 30 minutes.
 
 ### Results:
 This model obtained the following performance:
